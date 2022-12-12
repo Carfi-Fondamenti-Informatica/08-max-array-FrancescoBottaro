@@ -1,8 +1,8 @@
 #include <iostream>
 #include "lib.h"
 using namespace std;
-float sequenza [n];
 int main() {
+    float sequenza [n];
     int n;
     cin >>n;
    
