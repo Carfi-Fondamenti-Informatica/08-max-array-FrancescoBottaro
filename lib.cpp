@@ -1,6 +1,6 @@
 #include "lib.h"
-int Stampa_max (int sequenza [],int n) {
-    int max;
+float Stampa_max (float sequenza [],int n) {
+    float max;
 
     max = sequenza[0];
 
