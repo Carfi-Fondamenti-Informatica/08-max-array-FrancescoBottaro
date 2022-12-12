@@ -1,3 +1,4 @@
+#include "lib.h"
 int Stampa_max (int sequenza [],int n) {
     int max;
 
