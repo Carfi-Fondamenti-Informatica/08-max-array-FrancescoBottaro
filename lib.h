@@ -1,4 +1,4 @@
-int Stampa_max (int sequenza [],int n);
+float Stampa_max (float sequenza [],int n);
 
 
 
