@@ -1,4 +1,3 @@
-#include "lib.h"
 float Stampa_max (float sequenza [],int n) {
     float max;
 
